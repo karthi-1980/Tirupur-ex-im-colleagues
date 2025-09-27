@@ -1,0 +1,40 @@
+{
+  "name": "tirupur-exim-colleagues",
+  "version": "1.0.0",
+  "description": "A comprehensive knowledge hub for import/export matters, founded by Karthikeyan Mayavan",
+  "main": "index.html",
+  "scripts": {
+    "start": "python -m http.server 8000",
+    "serve": "npx serve .",
+    "dev": "npx live-server --port=3000"
+  },
+  "keywords": [
+    "import",
+    "export",
+    "customs",
+    "trade",
+    "tirupur",
+    "knowledge",
+    "hub",
+    "exim",
+    "foreign-trade",
+    "india"
+  ],
+  "author": "Karthikeyan Mayavan",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/karthikeyan-mayavan/tirupur-exim-colleagues"
+  },
+  "bugs": {
+    "url": "https://github.com/karthikeyan-mayavan/tirupur-exim-colleagues/issues"
+  },
+  "homepage": "https://tirupur-exim-colleagues.github.io",
+  "devDependencies": {
+    "live-server": "^1.2.2",
+    "serve": "^14.2.1"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
